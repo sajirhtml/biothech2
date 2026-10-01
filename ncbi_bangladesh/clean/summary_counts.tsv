@@ -1,0 +1,11 @@
+query_name	taxid	query	raw_hits	verified_bangladesh
+Escherichia coli	562	txid562[Organism:exp] AND Bangladesh[All Fields]	4711	4700
+Klebsiella pneumoniae	573	txid573[Organism:exp] AND Bangladesh[All Fields]	2457	2457
+Salmonella enterica	28901	txid28901[Organism:exp] AND Bangladesh[All Fields]	1388	1062
+Salmonella Typhi	90370	txid90370[Organism:exp] AND Bangladesh[All Fields]	680	680
+Acinetobacter baumannii	470	txid470[Organism:exp] AND Bangladesh[All Fields]	97	97
+Enterococcus faecium	1352	txid1352[Organism:exp] AND Bangladesh[All Fields]	31	31
+Staphylococcus aureus	1280	txid1280[Organism:exp] AND Bangladesh[All Fields]	405	402
+Pseudomonas aeruginosa	287	txid287[Organism:exp] AND Bangladesh[All Fields]	136	136
+Vibrio cholerae	666	txid666[Organism:exp] AND Bangladesh[All Fields]	25478	25440
+Mammaliicoccus sciuri	1296	txid1296[Organism:exp] AND Bangladesh[All Fields]	8	8

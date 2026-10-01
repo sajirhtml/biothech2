@@ -1,0 +1,74 @@
+{
+  "biosample": {
+    "date": "2026-10-01T22:48:59",
+    "biopython": "1.88",
+    "queries": [
+      {
+        "query_name": "Escherichia coli",
+        "taxid": 562,
+        "query": "txid562[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 4711
+      },
+      {
+        "query_name": "Klebsiella pneumoniae",
+        "taxid": 573,
+        "query": "txid573[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 2457
+      },
+      {
+        "query_name": "Salmonella enterica",
+        "taxid": 28901,
+        "query": "txid28901[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 1388
+      },
+      {
+        "query_name": "Salmonella Typhi",
+        "taxid": 90370,
+        "query": "txid90370[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 680
+      },
+      {
+        "query_name": "Acinetobacter baumannii",
+        "taxid": 470,
+        "query": "txid470[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 97
+      },
+      {
+        "query_name": "Enterococcus faecium",
+        "taxid": 1352,
+        "query": "txid1352[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 31
+      },
+      {
+        "query_name": "Staphylococcus aureus",
+        "taxid": 1280,
+        "query": "txid1280[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 405
+      },
+      {
+        "query_name": "Pseudomonas aeruginosa",
+        "taxid": 287,
+        "query": "txid287[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 136
+      },
+      {
+        "query_name": "Vibrio cholerae",
+        "taxid": 666,
+        "query": "txid666[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 25478
+      },
+      {
+        "query_name": "Mammaliicoccus sciuri",
+        "taxid": 1296,
+        "query": "txid1296[Organism:exp] AND Bangladesh[All Fields]",
+        "raw_hits": 8
+      }
+    ],
+    "unique_verified": 34333
+  },
+  "sra": {
+    "date": "2026-10-01T23:00:19",
+    "biopython": "1.88",
+    "runs": 9378
+  }
+}
